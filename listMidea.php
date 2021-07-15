@@ -88,6 +88,18 @@
 </div>
   </div>
   
+      <div class="grid2-item" >
+<div class="card ">
+<a href="product (40).php">
+  <img src="images/mideaxtreme.png" alt="Avatar" style="width:80%">
+  <div class="container">
+    <h3 class="logocardtext"><b>Midea MGP2X-09-SP Xtreme Save Pro</b></h3> 
+		<h3 class="logocardprice"><b>246.990 Ft</b></h3> 
+  </div>
+  </a>
+</div>
+  </div>
+  
 
 
     <div class="grid2-item" >
@@ -97,6 +109,18 @@
   <div class="container">
     <h3 class="logocardtext"><b>Midea Xtreme Save MG2X-12-SP</b></h3> 
 		<h3 class="logocardprice"><b>201.930 Ft</b></h3> 
+  </div>
+  </a>
+</div>
+  </div>
+  
+      <div class="grid2-item" >
+<div class="card ">
+<a href="product (41).php">
+  <img src="images/mideaxtreme.png" alt="Avatar" style="width:80%">
+  <div class="container">
+    <h3 class="logocardtext"><b>Midea MGP2X-12-SP Xtreme Save Pro</b></h3> 
+		<h3 class="logocardprice"><b>256.990 Ft</b></h3> 
   </div>
   </a>
 </div>
